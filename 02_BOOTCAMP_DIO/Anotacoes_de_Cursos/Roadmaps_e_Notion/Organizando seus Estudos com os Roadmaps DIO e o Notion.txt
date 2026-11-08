@@ -1,0 +1,19 @@
+Organizando seus Estudos com os Roadmaps DIO e o Notion
+
+Visão Geral do Curso e Ferramentas
+. Introdução ao Curso
+. Conhecendo os Rodmaps DIO
+. O que é o Notion e como ele pode te ajudar
+. Visão Geral do Notion - Interface e Blocos
+
+Construindo seu Caderno de Estudos
+. Estruturando a Página Principal
+. Criando um Banco de Dados(database) e Conteúdos
+. Criando Cronograma de Estudos
+. Criando Database de Cursos e Projetos
+. Finalizando o Caderno de Estudos 
+
+Dicas e Materiais de Apoio
+.Dicas e Materiais de Apoio
+
+Link do Curso: https://web.dio.me/course/organizando-seus-estudos-com-os-roadmaps-dio-e-o-notion/learning/954c3fdf-1dd1-47e0-b6fc-48cc7020b5b2?autoplay=1

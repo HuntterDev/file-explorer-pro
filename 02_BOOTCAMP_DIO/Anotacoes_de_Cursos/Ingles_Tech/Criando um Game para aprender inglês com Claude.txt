@@ -1,0 +1,30 @@
+Criando um Game para aprender inglês com Claude
+
+Concluída!
+#Especialista
+
+Felipe AguiarBrasil
+Felipe Aguiar
+
+Tech Educator na DIO
+
+A demanda internacional por profissionais brasileiros de tecnologia cresceu 53% em um ano. E o inglês ainda é o principal filtro que separa quem consegue acessar essas vagas de quem fica de fora. 
+
+Nesta live, vamos mostrar como desenvolver um game para aprender inglês usando Claude e revelar o plano que conecta você ao mercado internacional de tecnologia. 
+
+Por que você não pode perder essa live? 
+
+✅ Como desenvolver um game completo para aprender inglês usando Claude  
+✅ Como usar IA para acelerar o aprendizado de inglês técnico  
+✅ Como acessar vagas internacionais que pagam em dólar e euro  
+✅ Como se conectar com profissionais que vivem e trabalham no exterior
+
+---------------------------------------------------------------------------
+📦 link do projeto do my english companion:
+https://github.com/felipeAguiarCode/my-english-companion
+📦link do game de card english:
+https://digitalinnovationone.github.io/english-card-game/
+
+#Claude Code
+
+Link do Curso: https://web.dio.me/lives/criando-um-game-para-aprender-ingles-com-claude

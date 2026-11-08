@@ -1,0 +1,23 @@
+Git e GitHub: Primeiros Passos e Configuração do Ambiente
+
+Visão Geral do Curso
+. Introdução ao curso
+. O que é Versionamento de Código
+. O que é Git
+
+Instalação, Configuração e Autenticação
+. Instalando o Git no Windows
+. Instalando o Git no Linux
+. Configurando o Git
+. AuteTicando via Token
+. Autenticando via chave SSH
+
+Primeiros Passos com Git e Github
+. Criando e clonando Repositórios
+. Salvando Alterações no Repositório Local
+. Desfazendo Alterações no Repositório Local
+. Enviando e Baixando Alterações com o repositório remoto
+. Trabalhando com Branches - criando, mesclando, deletando e tratando conflitos
+. Trabalhando com Branches - comando úteis no dia a dia
+
+Link do Curso: https://web.dio.me/track/santander-bootcamp-ciberseguranca/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066?autoplay=1

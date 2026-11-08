@@ -1,0 +1,11 @@
+Uma dica de programa de utilizamos para gerar arquivos em PDF:
+
+https://www.ilovepdf.com
+
+ 
+
+Outra dica:
+
+Como converter um arquivo para PDF e postá-lo no SIGAA (Nova Plataforma de EaD):
+
+Baixe o PDF CREATOR (http://www.baixaki.com.br/download/pdfcreator.htm), instale-o em seu computador e ao imprimir um arquivo, selecione a caixa PDFCreator em vez do nome da impressora para, em seguida, converter o arquivo em PDF e depois colocá-lo na Nova Plataforma de EaD - SIGAA.

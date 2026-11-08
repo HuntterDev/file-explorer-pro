@@ -1,0 +1,29 @@
+Trabalhando em Equipes Ágeis
+
+Introdução à Cultura Ágil
+. Apresentação do Curso
+. Agilidade x Rapidez
+. Os valores do Manifesto Ágil
+. Os 12 Princípios do Manifesto
+. Características de um Time Ágil
+. Agilidade na Tecnologia
+
+Gerenciamento de Projetos e Gestão Ágil
+. Projetos x Processo
+. Modelo Ágil x Tradicional
+. O que é Gestão Ágil?
+
+Métodos e Ferramentas Ágeis
+. O que é Scrum
+. O Framework Scrum
+. O que é XP?
+. Kanban
+. O que é OKR?
+. Exemplo OKR
+. Os Benefícios do OKR
+. Ferramentas para Gestão Ágil
+. Conclusão
+. Para saber mais.
+
+Link do curso: https://web.dio.me/course/trabalhando-em-equipes-ageis/learning/1efc7ad9-a0be-4144-8ed4-dbcdd7c3a948?autoplay=1
+

@@ -1,0 +1,16 @@
+Para estudantes de Sistemas de Informação, a melhor IA gratuita depende da subárea de foco, mas as ferramentas mais recomendadas para 2026 são:
+
+1. Para Programação e Desenvolvimento:
+
+GitHub Copilot (Plano Grátis): Essencial para estudantes de SI, oferece auto complete de código e ajuda na depuração (debug) diretamente no editor.
+Cursor: Editor de código com IA integrada, considerado superior para power users que precisam refatorar código complexo.
+Google Antigravity: Destacado como o mais completo no plano gratuito para codificação. 
+2. Para Pesquisa, Lógica e Exatas:
+
+DeepSeek: Elogiada por usuários para matemática e lógica, com explicações detalhadas e resolução simbólica gratuita. 
+Perplexity AI: Ideal para pesquisa acadêmica, pois fornece respostas com fontes citadas, aumentando a confiança nas informações para trabalhos e TCCs. 
+3. Para Organização e Estudos Gerais:
+
+Google Gemini: Integração nativa com Google Docs e Drive, ótimo para resumir apostilas e organizar ideias. 
+NotebookLM (Gemini Notebook): Ferramenta gratuita para transformar PDFs e notas em resumos, podcasts de estudo e quizzes interativos, mantendo as respostas ancoradas ao material enviado. 
+Recomendação de Combinação: A combinação GitHub Copilot (para código) + Perplexity/NotebookLM (para pesquisa e teoria) cobre a maioria das necessidades de um estudante de SI sem custo. 

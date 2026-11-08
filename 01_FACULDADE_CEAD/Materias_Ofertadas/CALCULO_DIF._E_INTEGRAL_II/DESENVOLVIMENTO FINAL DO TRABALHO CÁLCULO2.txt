@@ -1,0 +1,239 @@
+BLOCO 1: CONCEITOS FUNDAMENTAIS (INTRODUÇÃO)
+
+P1. Imagine que você precisa explicar para alguém que nunca estudou Cálculo: "O que é uma integral e para que ela serve?" Use uma situação do dia a dia (não necessariamente computacional).
+
+P1 RESPOSTA
+Para entender o que é uma integral sem ter base em algo mais específico e técnico, cabe-se a propor uma situação imaginária que devemos trabalhar com valores em pequenas e grandes quantidades nas quais passam por várias mudança fora do padrão(não constantes e nem fixo) em que precisamos usar cálculos, usando a lógica percebe-se que um simples cálculo aritiméticos (soma, subtração, multiplicação e divisão) não seria suficiente para um resultado mais preciso em que observa os intervalos então integral pode ser entendida como uma ferramenta que permite juntar todas essas coisas , tempo espaço e cargas quantitativas.   
+ 
+
+P2. Por que dizemos que a integral está relacionada a "acumulação"? Dê um exemplo de algo que se acumula continuamente.
+
+P2. Resposta
+Imaginar uma situação comum  rotineira em que a situação(problemática) ou algo precise de uma solução, situações assim para que chegue ao ponto de se tornar algo que precisa ser resolvido, então perceberemos que surge através de acumúlos de quantidade e se usarmos métodos aplicados de cálculo integral chegaremos a um resultado otimizado, no entanto poderia se perguntar se poderia resolver com cálculos simples, a resposta é nem sempre, dependendo da situação em que a base não é constante cálculo simples não seria suficiente, para ficar mais claro seobre essa colocação podemos citar um exemplo simples:
+A água entrando em um reservatório, a caixa d'água se encaixa bem nesse exemplo, ao observar que cada segundo entra uma quantidade de água e essa quantidade pode vairiar com o tempo e o volume total de água do reservatório vai se acumulando, agora chegamos ao ponto que enetendemos que a integral soluciona com perfeição essa situação em que precisa saber quantidade volume de água vai se acumulando com o tempo, sendo que a vazão de água não for constante, não basta usar operações aritméticas simple, porque o obejtivo da solução se cabe aos detalhes em que cada pequeno intervalo de tempo se acumula e somar todas as contribuições, usando a integral tera resultados muito mais preciso.
+
+P3. Qual é a diferença entre integral definida e indefinida? Em que situação usaríamos cada uma?
+
+P3. Resposta
+A diferença está em ter Limites de integração ou não em que se proucura o resultado. Antes de dizer em quais situações cada uma deve ser utilizada, vamos entender um pouco mais as definições, a integral indefinida representa uma família de primitivas de uma função em que a mesma procura uma função cuja derivada seja a função original.
+Já a integral definida possui um limite inferior e um limite superior o que se destaca a quantidade acumulada em determinado intervalo, como área, distância e volume.
+Sabendo disso então podemos definir o que se destaca nas suas diferenças
+
+Integral indefinida > não possui Limites, Integral Definida > possui limites.
+Resultado de um enunciado, na integral indefinida o resultado se dá > função + C, já na integral definida apenas números.
+Principal idéia Integral indefinida > encontrar uma primitiva, na integral definida > calcular uma acumulação.
+aplicação comum na integral indefinida > encontrar funções a partir das derivadas, na integral definida > Área, distância, volume.quantidade acumulada.
+
+
+BLOCO 2: RELAÇÃO DERIVADA × INTEGRAL
+
+P4. Na sua opinião, qual é a relação entre derivar e integrar? Por que elas são consideradas operações "inversas"?
+
+P4. Resposta
+As propostas entre a derivada e integral percorrem por caminhos diferentes quanto ao seu resultado, no desenvolvimento da derivada a proposta mostra em que ponto uma quantidade está variando enquanto a integral percorre por um caminho contrário buscando a quantidade acumulada, ou seja, uma mostra o porque da variação e a outra mostra a quantidade acumulada no processo. 
+
+
+P5. O que é o Teorema Fundamental do Cálculo? (Explique com suas palavras, sem copiar definição pronta). Por que ele é importante?
+
+P5. Resposta
+O teorema fundamental de Cálculo estabelecee uma ligação muito importante entre a derivação e integração, observando de um ponto que a derivada está relacionada à taxa de variação e a integral está relacionada à acumulação e elas são consideradas operações inversas de momento percebe-se que ao invés de trabalhar em conjunto, trabalhe de forma separada, o contexto do teorema fundamental mostra de uma perspectviva diferente, em que a derivada mostra como algo está mudando, enquanto a integral permite recuperar o efeito acumulado dessas mudanças, ou seja, sem essa relação, teríamos que tratar derivadas e integrais como assuntos separados e o Teorema mostra que existe uma conexão Taxa de Variação <-> acumulação, isso torna possível resolver muitos problemas de maneira muito mais prática, podemos idealizar a seguinte premissa -> (integral) uma quantidade acumulada, a derivada pode nos ajudar a descobrir como essa quantidade está variando naquele momento. 
+
+
+BLOCO 3: TÉCNICAS DE INTEGRAÇÃO
+
+P6. Por que existem várias técnicas de integração? Por que não podemos usar uma única fórmula para tudo?
+
+P6. Resposta
+O ponto principal e entender que não existe uma única forma de uma função aparecer em uma integral
+para entender melhor podemos imaginar um situação com diferentes propostas e trazer a solução ideal para cada uma:
+Vamos imaginar que tenha várias portas, mas cada uma possui fechaduras diferente, então pela lógica não seria possível abrir todas as portas usando a mesma chave, assim como as integrais, para tal resolução não seria possível resolver usando a mesma fórmula e sim usando método específico para resolver assim com as chaves de diferentes tipos para abrir a determinada porta com sua específica fechadura.  
+
+P7. Explique a Substituição como se estivesse ensinando um colega. Em que tipo de situação ela é útil? Dê um exemplo.
+
+P8. Explique a Integração por Partes. Quando você usaria ela em vez da substituição? Dê um exemplo.
+
+P8. Resposta 
+integrações por partes é uma técnica usada principalmente quando temos uma integral envolvendo o produto de duas funções, podemos destacar pontos principais.
+. Ela é baseada na regra do produto da derivação
+. A ideia não é resover a integral diretamente, mas transformá-la em outra integral mais simples.
+. Na substituição, procuramos normalmente uma relação entre uma função e sua derivada, especialmente em expressões compostas.
+. Na integração por partes, procuramos separar o produto em duas partes, escolhendo uma derivar e outra pra integrar.
+Uma ênfase que podemos fixar para que fique mais claro a Substituição tenta simplificar a estrutura interna da função, integração por partes tenta simplificar um produto de funções.
+
+P9. Explique Frações Parciais. Que tipo de função exige essa técnica?
+
+P9. Resposta
+A ideia da frações parciais é bastante lógica, pegar uma fração algébrica que está "misturada" e separá-la em frações mais simples, que conseguimos integrar com facilidade. A função que exige essa técnica são as funções racionais pelo simples fato que se trata de uma divisão entre dois polinômios em que não seria possível usar a substituição por não se tratar de produto da expressão e existe uma condição importante antes de aplicar a função racional e identificar o grau dos polinômios grau numerador < grau denominador. 
+
+
+BLOCO 4: COMPUTAÇÃO E INTEGRAÇÃO NUMÉRICA
+
+P10. Por que um computador muitas vezes não consegue calcular uma integral exata usando apenas técnicas analíticas?
+
+P.10 Resposta
+Para Cálculo mais complexos onde existem funções para as quais não conseguimos encontrar uma primitiva usando as funções elementares, como:
+. Polinômios;
+. Exponenciais;
+. Logaritmos; 
+. Funções trigonométricas;
+mas isso não significa que a integral não possa ser calculada e sim significa que não conseguimos representá-la de uma forma analítica usando as funções. De forma computacional quando uma solução analítica não é possível ou não é prática, o computador pode utilizar métodos numéricos, ou seja, ao invés de tentar uma fórmula exata para a integral, ele faz uma aproximação do valor. 
+Na computação a forma que trabalha constantemente com problemas em que:
+. As funçoes podem ser muito complexas;
+. Os dados podem ser obtidos experimentalmente;
+. Não existem uma expressão matemática simples;
+. Ou encontrar uma solução analítica seria muito difícil.
+Nessas situações, métodos numéricos permitem obter resultados suficientemente precisos para serem utilizados em programas e sistemas. 
+
+P11. O que são métodos numéricos de integração? Cite pelo menos dois e explique a ideia por trás de cada um.
+
+P11. Resposta
+Antes de conceituar o que são métodos numéricos de integração, vamos partir de um exemplo simples.
+Exemplo 1.
+
+        curva
+       /‾‾‾\
+      /     \
+-----/-------\-----
+imagina uma curva assim:
+Em vez de calcular exatamente a área delimitada pela curva, imaginamos segmentos de reta entre determinados pontos:
+        curva
+       /‾‾‾\
+      / \   \
+-----/---\---\-----
+Esses segmentos formam aproximadamente vários trapézios.
+A forma simples de entender os procedimentos:
+A regra do trapézio aproxima a integral substituindo partes da curva por segmentos de reta. Assim, a área sob a curva é estimada pela soma das áreas de vários trapézios.
+
+Exemplo 2.
+
+Regra de Simpson
+
+Curva original
+      ╭────╮
+    ╭─╯    ╰─╮
+---╯----------╰---
+
+Aproximação
+      ╭────╮
+    ╭─╯      ╰─╮
+---╯------------╰---
+
+Regra de Simpson segue uma ideia semelhante, mas em vez de aproximar a curva usando segmentos de reta, utiliza curvas polinomiais, então a ideia de utilizar pontos da função para construir uma aproximação que acompanha melhor a curvatura.
+Concluimos que a integração numérica transforma um problema de encontrar uma solução exata em um problema de realizar várias aproximações e combina-las para obter um resultado suficientemente preciso. 
+
+P12. O que é a Soma de Riemann? Como ela se relaciona com a forma como um computador "pensa"?
+
+P12. Resposta
+A soma de Riemann é uma maneira de aproximar a área sob uma curva dividindo uma região em várias partes menores e somando as áreas dessas partes, com isso, relacionar como o computador "pensa" devemos visualizar a funcionalidade partindo do seguinte ponto:
+A integral pode ser entendida como o limite de uma Soma de Riemann quando o número de divisões aumenta e a largura de cada divisão tende a zero.
+Poucos retângulos -> aproximação mais grosseira
+Muitos retângulos -> aproximação mais precisa
+Retângulos infinitamente pequenos -> Integral
+Essa é a ideia que está por trás da construção da integral definida.
+Então para concluimos precisamos entender que o computador não pensa matematicamente como uma pessoa. Mas podemos fazer uma analogia: ele trabalha muito bem dividindo problemas em operações menores e executando essas operações sistematicamente e a Soma de Riemann segue exatamente essa lógica. Para definir de vez e visualizar todo o contexto vamos imaginar que um programa precise aproximar uma integral.
+Ele pode fazer algo parecido com:
+1. receber o intervalo;
+2. dividir o intervalo em pequenas partes;
+3. escolher um ponto em cada parte;
+4. calcular o valor da função naquele ponto;
+5. calcular a área de cada pequeno retãngulo;
+6. somar todas as áreas;
+7. apresentar o resultado aproximado.
+problema grande → pequenas partes → cálculos individuais → soma dos resultados.
+
+BLOCO 5: APLICAÇÕES EM COMPUTAÇÃO/SISTEMAS DE INFORMAÇÃO
+P13. Escolha duas áreas da Computação (ex.: Computação Gráfica, IA, Processamento de Sinais, Simulação, Otimização de Algoritmos) e explique como a integral aparece nelas. Seja específico.
+
+P13. Resposta
+Escolha n° 1 Computação Gráfica
+
+A integral pode aparecer, por exemplo, na determinação de áreas, volume e iluminação de objetos tridimensionais precisamente quando trabalhar com criação de objetos 3D, onde que para calcular determinadas propriedades desse objeto, podemos precisar determinar seu volume ou sua área.
+Já que a ideia da integral é dividir uma região em pequenas partes e acumular essas contribuições.
+Então podemos visualizar da sguinte forma
+objeto 3D → pequenas fatias → volume de cada fatia → soma dos volumes → volume total
+
+Escolha n° 2 Processamento de Sinais
+
+Em processamento de sinaism um computador pode trabalhar com sinais como:
+. Áudio
+. Voz 
+. Música
+. Sinais de sensores;
+. Sinais de equiamentos eletrônicos.
+Um sinal pode variar continuamente ao longo do tepo.
+A integral pode ser utilizada, por exemplo, para calcular a energia ou potência associada a um sinal ao longo de determinado intervalo.
+Para ser mais preciso podemos usar o microfone captando um sinal de áudio. O sinal possui uma determinada amplitude e acumulá-lo ao longo do tempo, então para se concluir o computador observa o sinal ao longo do tempo e acumula pequenas contribuições de energia para determinar a energia total naquele intervalo, ou seja, para analisar os sinais de áudio precisa detectar características de um sinal para comparar diferentes sinais.
+
+P14. Para um profissional de Sistemas de Informação, qual a utilidade prática de entender Cálculo Integral? Ele não poderia simplesmente usar uma biblioteca/pronto?
+
+P14. Resposta 
+Uso da bibliteca -> entrega o resultado -> Profissional -> entender o resultado, com isso quebra em simplesmente usar uma biblioteca pronta, ao analisar o resultado o profissional precisa entender o porque do resultado e também se a ferramenta foi corretamente usada na específica instrução. para que fique visualmente mais compreensível quanto ao resultado final, teria que passar por algumas idagações, como por exemplo:
+O profissional teria seguintes perguntas.
+. O que esse número representa?
+. A fórmula utilizada está correta?
+. O resultado faz sentido?
+. Qual método numérico foi utilizado?
+. Qual é o nível de precisão?
+. O erro de aproximação é aceitável?
+. Em que situação essa integral realmente deve ser aplicada?
+De fato seria inviável o profissional prosseguir sem ao mínimo de conhecimento sobre Cálculo Integral, entrar em um campo sem conhecimentos prévios a probabilidades de fracasso e quase inevitável, principalmente quando se trabalha com interações gigantescamente complexas, computador por si só não concluiria essa tarefa sozinho, mas sim com uma coordenação estratégica e proventa de conhecimentos do condutor da operação que seria esse profissional.  
+
+P15. Qual é a relação entre:
+
+Problema matemático → Modelo → Integral → Método Numérico → Algoritmo → Computador
+Explique essa cadeia com suas palavras.
+
+P15. Resposta
+Vamos idealizar da seguinte forma, usando um único exemplo para chegarmos ao produto final
+1.Qual é o problema? 2.Qual modelo representa esse problema? 3.Por que preciso de uma integral? 4.Qual método devo utilizar? 5.Como transformo esse método em algoritmo? 6.E como faço o computador executá-lo?
+
+ENERGIA CONSUMIDA 
+
+1. Precisamos descobrir quanta energia um servidor consumiu durante um determinado período.
+Início da Problemática
+
+2. Modelo
+precisamos transformar essa situação com uma representação matemática
+A ideia é:
+situação real -> representação matemática.
+
+3. Integral
+
+Será desenvolvida a partir de uma observação em que não apenas queremos saber apenas o consumo em um instante e sim o consumo acumulado durante o período
+
+podemos utilizar a seguinte Integral:
+
+E=∫t1​t2​​P(t)dt
+
+4. Método Numérico
+Agora vamos partir do ponto em que essa integral não possa ser resolvida facilmente de forma analítica.
+
+Nesse caso podemos utilizar método numérico, como:
+
+. Regra do Trapézio
+. Regra de Simpson
+. Soma de Riemann.
+
+O método transforma o problema de encontrar uma solução exata em uma aproximação calculável, ou seja, dividir o ontervalo em pequenas partes e aproximar a área de cada uma delas
+
+5. Algoritmo
+Agora precisamos transformar esse método matemático em uma sequência organizada de instruções
+Por exemplo:
+
+1. receber os limites do intervalo;
+2. dividir o intervalo em partes;
+3. calcular os valores da função;
+4. calcular as pequenas áreas;
+5. somar as áreas;
+6. apresentar o resultado.
+
+isso já se aproxima muito da lógica de um algoritmo.
+
+6. Computador
+Agora transforma esse algoritmo em código e fazer o computador executar as seguintes operações.
+
+Então temos:
+
+Problema real -> Modelo Matemático -> Integral -> Método Numérico -> Algoritmo -> Programa executado pelo computador.
+
+Essa sequência demonstra a relação entre Cálculo Integral e Computação.

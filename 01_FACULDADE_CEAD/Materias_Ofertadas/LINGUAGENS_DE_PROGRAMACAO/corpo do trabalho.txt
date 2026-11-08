@@ -1,0 +1,35 @@
+Características Essenciais 
+
+1. Paradigma Funcional Puro
+
+
+
+
+Exemplos de programação feito em Haskell, mostrando suas atribuições.
+
+Por padrão a primeira programação usada como demonstração a famosa "Hello World". As demais serão as mais comuns usadas para exemplos simples de demonstraçao como programar na determinada linguagem de programação a qual está sendo estudada, exemplos esses operações simples de matemática.
+
+main :: IO ()
+main = putStrln "Hello World!"
+
+main:: IO () .. Declaração de tipo main é a função principal de todo programa Haskell deve ter, ele retorna I/O que significa entrada e saída que não produz nenhum valor significativo
+main = putStrln "Hello world!" .. A função putStrln recebe uma string e a imprime na tela. 
+
+Exemplo: Função que calcula o dobro de um número.
+
+dobro :: Int -> Int
+dobro x= x*2
+
+main :: IO ()
+main = do
+let resultado = dobro 5
+putStrln ("O dobro de 5 é: " ++ show resultado)
+
+Entendendo o programa:
+
+dobro :: Int -> Int .. Declaração de tipo: dobro é uma função que recebe um int e retorna int, ou seja, vamos entrar com um numero do tipo inteiro e ele retornará um resultado do tipo inteiro
+quanto sua operação para calcular e retornar o resultado . dobro x = x * 2 a definição mostra que o x receberá um valor e o mesmo multiplicará por 2 mostrando assim o resultado que seria seu dobro
+main do bloco do que permite sequenciar as ações de entrada e saída
+let resultado = dobro 5 .. Em Haskell "let" dentro do "do" cria uma variável local e imutável
+putStrln ("O dobro de 5 é: " ++ show resultado) -> ++ concatena strings, "show" converte numero 10(que sera o resultado da operação) para string.
+Observação: como se trata de uma operação simples, o programa em si é de formata mais simples em que a entrada de dado já é exposto no próprio escopo da estrutura, onde definimos essa entrada com o número "5" em que o resultado a se retornado será "10" 
